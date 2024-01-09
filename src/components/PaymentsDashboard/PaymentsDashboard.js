@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import Header from "./Header/Header";
-import { Dropdown } from "react-bootstrap";
 import Form from "react-bootstrap/Form";
 import "./PaymentsDashboard.css";
 import InfoCard from "./InfoCard/InfoCard";
