@@ -1,0 +1,92 @@
+export const TRANSACTION_DATA = [
+  {
+    orderId: 281209,
+    orderDate: "7 July, 2023",
+    orderAmount: 1278.23,
+    fee: 22,
+  },
+  {
+    orderId: 281210,
+    orderDate: "7 July, 2023",
+    orderAmount: 1248.73,
+    fee: 22,
+  },
+  {
+    orderId: 281211,
+    orderDate: "7 July, 2023",
+    orderAmount: 1268.29,
+    fee: 22,
+  },
+  {
+    orderId: 281212,
+    orderDate: "7 July, 2023",
+    orderAmount: 1278.23,
+    fee: 22,
+  },
+  {
+    orderId: 281213,
+    orderDate: "7 July, 2023",
+    orderAmount: 1288.0,
+    fee: 22,
+  },
+  {
+    orderId: 281214,
+    orderDate: "7 July, 2023",
+    orderAmount: 1278.23,
+    fee: 22,
+  },
+  {
+    orderId: 281209,
+    orderDate: "7 July, 2023",
+    orderAmount: 1278.23,
+    fee: 22,
+  },
+  {
+    orderId: 281215,
+    orderDate: "7 July, 2023",
+    orderAmount: 1278.23,
+    fee: 22,
+  },
+  {
+    orderId: 281216,
+    orderDate: "7 July, 2023",
+    orderAmount: 1278.23,
+    fee: 22,
+  },
+  {
+    orderId: 281217,
+    orderDate: "7 July, 2023",
+    orderAmount: 1233.23,
+    fee: 22,
+  },
+  {
+    orderId: 281218,
+    orderDate: "7 July, 2023",
+    orderAmount: 1205.23,
+    fee: 22,
+  },
+  {
+    orderId: 281219,
+    orderDate: "7 July, 2023",
+    orderAmount: 1278.23,
+    fee: 22,
+  },
+  {
+    orderId: 281220,
+    orderDate: "7 July, 2023",
+    orderAmount: 1278.23,
+    fee: 22,
+  },
+  {
+    orderId: 281221,
+    orderDate: "7 July, 2023",
+    orderAmount: 1278.23,
+    fee: 22,
+  },
+  {
+    orderId: 281222,
+    orderDate: "7 July, 2023",
+    orderAmount: 1278.23,
+    fee: 22,
+  },
+];

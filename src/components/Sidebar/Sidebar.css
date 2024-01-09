@@ -1,0 +1,105 @@
+.sidebar {
+  width: 224px;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  background: var(--Secondary-Navbar, #1e2640);
+  transition: all 0.3s ease;
+  padding: 16px;
+  box-sizing: border-box;
+}
+
+.logo-container {
+  padding: 0px 8px;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.logo-container img {
+  border-radius: 8px;
+  margin-right: 10px;
+}
+.logo-container .logo-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.logo-container .logo-text .title {
+  color: #fff;
+  font-size: 16px;
+}
+.store-link {
+  color: #c3c8c8;
+  text-decoration: underline;
+  font-size: 14px;
+}
+.sidebar-menu {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 0 0;
+}
+.sidebar-menu li {
+  padding: 10px 18px;
+  display: flex;
+  /* color: white; */
+  color: var(--Black-100, #fff);
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+}
+.sidebar-menu li i {
+  margin-right: 15px;
+}
+
+.sidebar-menu li:hover {
+  background: rgba(255, 255, 255, 0.1);
+  margin: 0 10px;
+  border-radius: 4px;
+}
+
+.credits-container {
+  width: 192px;
+  display: flex;
+  align-items: center;
+  border-radius: 4px;
+  background: #353c53;
+  position: fixed;
+  padding: 6px 12px;
+  bottom: 10px;
+  box-sizing: border-box;
+}
+
+.wallet {
+  display: flex;
+  padding: 6px;
+  align-items: flex-start;
+  border-radius: 4px;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.wallet i {
+  font-size: 20px;
+  color: #fff;
+}
+
+.credits {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 12px;
+  color: var(--Black-100, #fff);
+}
+
+.credits .label {
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 16px;
+  opacity: 0.8;
+}
+
+.credits .money {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+}
